@@ -1,0 +1,15 @@
+C:\Users\KalaivaniMuthukannan\OneDrive - Syncfusion\Desktop\AdvanceOOPs\LinQ\ExcersiceLinq\bin\Debug\net7.0\ExcersiceLinq.exe
+C:\Users\KalaivaniMuthukannan\OneDrive - Syncfusion\Desktop\AdvanceOOPs\LinQ\ExcersiceLinq\bin\Debug\net7.0\ExcersiceLinq.deps.json
+C:\Users\KalaivaniMuthukannan\OneDrive - Syncfusion\Desktop\AdvanceOOPs\LinQ\ExcersiceLinq\bin\Debug\net7.0\ExcersiceLinq.runtimeconfig.json
+C:\Users\KalaivaniMuthukannan\OneDrive - Syncfusion\Desktop\AdvanceOOPs\LinQ\ExcersiceLinq\bin\Debug\net7.0\ExcersiceLinq.dll
+C:\Users\KalaivaniMuthukannan\OneDrive - Syncfusion\Desktop\AdvanceOOPs\LinQ\ExcersiceLinq\bin\Debug\net7.0\ExcersiceLinq.pdb
+C:\Users\KalaivaniMuthukannan\OneDrive - Syncfusion\Desktop\AdvanceOOPs\LinQ\ExcersiceLinq\obj\Debug\net7.0\ExcersiceLinq.csproj.AssemblyReference.cache
+C:\Users\KalaivaniMuthukannan\OneDrive - Syncfusion\Desktop\AdvanceOOPs\LinQ\ExcersiceLinq\obj\Debug\net7.0\ExcersiceLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KalaivaniMuthukannan\OneDrive - Syncfusion\Desktop\AdvanceOOPs\LinQ\ExcersiceLinq\obj\Debug\net7.0\ExcersiceLinq.AssemblyInfoInputs.cache
+C:\Users\KalaivaniMuthukannan\OneDrive - Syncfusion\Desktop\AdvanceOOPs\LinQ\ExcersiceLinq\obj\Debug\net7.0\ExcersiceLinq.AssemblyInfo.cs
+C:\Users\KalaivaniMuthukannan\OneDrive - Syncfusion\Desktop\AdvanceOOPs\LinQ\ExcersiceLinq\obj\Debug\net7.0\ExcersiceLinq.csproj.CoreCompileInputs.cache
+C:\Users\KalaivaniMuthukannan\OneDrive - Syncfusion\Desktop\AdvanceOOPs\LinQ\ExcersiceLinq\obj\Debug\net7.0\ExcersiceLinq.dll
+C:\Users\KalaivaniMuthukannan\OneDrive - Syncfusion\Desktop\AdvanceOOPs\LinQ\ExcersiceLinq\obj\Debug\net7.0\refint\ExcersiceLinq.dll
+C:\Users\KalaivaniMuthukannan\OneDrive - Syncfusion\Desktop\AdvanceOOPs\LinQ\ExcersiceLinq\obj\Debug\net7.0\ExcersiceLinq.pdb
+C:\Users\KalaivaniMuthukannan\OneDrive - Syncfusion\Desktop\AdvanceOOPs\LinQ\ExcersiceLinq\obj\Debug\net7.0\ExcersiceLinq.genruntimeconfig.cache
+C:\Users\KalaivaniMuthukannan\OneDrive - Syncfusion\Desktop\AdvanceOOPs\LinQ\ExcersiceLinq\obj\Debug\net7.0\ref\ExcersiceLinq.dll
